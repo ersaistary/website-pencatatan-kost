@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./picture/IOKOST.png" alt="Makanbwang" />
+  <img src="./picture/IOKOST.png" alt="IOKOST" />
 
   &#xa0;
 </div>
