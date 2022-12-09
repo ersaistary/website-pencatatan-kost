@@ -17,7 +17,15 @@
 ## :dart: About ##
 
 IOKOST i a webstie taht can help boarding house operator to taking notes about occupant data and transaction data.
-
+<img width=400px src="https://github.com/ersaistary/website-pencatatan-kost/blob/main/screenshoot/index.jpg">
+<img width=400px src=https://github.com/ersaistary/website-pencatatan-kost/blob/main/screenshoot/dashboard.jpg>
+<img width=400px src="https://github.com/ersaistary/website-pencatatan-kost/blob/main/screenshoot/profile.jpg">
+<img width=400px src="https://github.com/ersaistary/website-pencatatan-kost/blob/main/screenshoot/insert%20profile.jpg">
+<img width=400px src="https://github.com/ersaistary/website-pencatatan-kost/blob/main/screenshoot/update%20profile.jpg">
+<img width=400px src="https://github.com/ersaistary/website-pencatatan-kost/blob/main/screenshoot/transaction.jpg">
+<img width=400px src="https://github.com/ersaistary/website-pencatatan-kost/blob/main/screenshoot/insert%20transaction.jpg">
+<img width=400px src="https://github.com/ersaistary/website-pencatatan-kost/blob/main/screenshoot/update%20transaction.jpg">
+<img width=400px src="https://github.com/ersaistary/website-pencatatan-kost/blob/main/screenshoot/delete%20data.jpg">
 ## :checkered_flag: Starting ##
 
 ```bash
