@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./picture/IOKOST.png" alt="IOKOST" />
+  <img src="https://github.com/ersaistary/website-pencatatan-kost/blob/main/assets/picture/IOKOST.png" alt="IOKOST" />
 
   &#xa0;
 </div>
