@@ -5,9 +5,6 @@
 </div>
 
 <h1 align="center">IOKOST</h1>
-
-<hr> -->
-
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
