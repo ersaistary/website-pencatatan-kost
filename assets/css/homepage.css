@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+    font-size: 12px;
+    font-family: poppins;
+}
+
+/* Sidebar start here  */
+.sidebar{
+    position: fixed;
+    background: #E4CBCB;
+    width: 200px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.sidebar h2{
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #ffffff;
+    background: #E20E4E;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.sidebar ul li {
+    margin: 25px 0;
+}
+
+.sidebar ul li a{
+    color: #000000;
+}
+.sidebar ul li a:hover{
+    color: #ffffff;
+    font-weight: bold;
+    transition: 0.4s;
+}
+
+.sidebar ul li a img{
+    width: 125px;
+    height: auto;
+    padding: 0 30px;
+}
+
+.sidebar ul li a button{
+    width: 180px;
+    border-color: transparent;
+    background-color: #AC3737;
+    margin-left: 10px;
+    margin-top: 70px;
+    border-radius: 15px;
+    color: white;
+    font-family: poppins;
+    cursor: pointer;
+}
+
+.sidebar ul li a button:hover{
+    color: #E4CBCB;
+}
+
+/* Sidebar end Here  */
+
+/* Main Content Section Start Here  */
+
+.main{
+    margin-left: 200px;
+    padding: 5px;
+}
+
+.main h2{
+    margin-top: 20px;
+}

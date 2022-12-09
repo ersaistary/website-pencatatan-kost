@@ -1,9 +1,9 @@
 fieldset{
 	position: absolute;
-	top: 90px;
+	top: 130px;
 	font-size: 13px;
 	width: 710px;
-	height: 320px;
+	height: 230px;
 	border-radius: 15px;
 	border-radius: 15px;
 	background-color: #F5F5F5;
@@ -31,7 +31,7 @@ body{
 }
 button{
 	position: absolute;
-	top: 300px;
+	top: 220px;
 	width: 200px;
 	border-radius: 15px;
 	background-color: #AC3737;
