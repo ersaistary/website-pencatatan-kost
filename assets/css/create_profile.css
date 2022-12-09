@@ -1,0 +1,54 @@
+fieldset{
+	position: absolute;
+	top: 90px;
+	font-size: 13px;
+	width: 710px;
+	height: 320px;
+	border-radius: 15px;
+	border-radius: 15px;
+	background-color: #F5F5F5;
+	border-color: transparent;
+	margin-left: 300px;
+	margin-top: 100px;
+	padding: 10px;
+}
+fieldset input{
+	outline: 0px;
+	width: 700px;
+	border-width: 0 0 2px 0;
+	border-color: gray;
+	background-color: transparent;
+}
+
+input:focus{
+	border-color: black;
+}
+
+body{
+	background-image: url(vector.png);
+	background-size: 1400px;
+	font-family: poppins;
+}
+button{
+	position: absolute;
+	top: 300px;
+	width: 200px;
+	border-radius: 15px;
+	background-color: #AC3737;
+	color: white;
+	border-color: transparent;
+	margin-left: 250px;
+	padding: 3px;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+.error{
+	background: #F2DEDE;
+   	color: #A94442;
+   	padding: 2px;
+   	border-radius: 5px;
+   	width: 700px;
+   	font-size: 12px;
+   	text-align: center;
+}
